@@ -1,1 +1,3 @@
-#এই ফাইলে প্যাকেজের __version__ এবং ইমপোর্ট স্টেটমেন্টস থাকবে যাতে src মডিউলটি পাইথন প্যাকেজ হিসেবে কাজ করে; এটি মডুলার স্ট্রাকচারের জন্য তৈরি, ইমপোর্ট সহজ করে।
+# This file contains package __version__ and import statements to make the src module work as a Python package; it is designed for modular structure, making imports easier.
+
+__version__ = "0.1.0"
